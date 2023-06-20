@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/yagoernandes/album-league/cmd/domain/models"
-	"github.com/yagoernandes/album-league/cmd/environment"
+	"github.com/yagoernandes/album_league_api/cmd/domain/models"
+	"github.com/yagoernandes/album_league_api/cmd/environment"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

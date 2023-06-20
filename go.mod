@@ -1,4 +1,4 @@
-module github.com/yagoernandes/album-league
+module github.com/yagoernandes/album_league_api
 
 go 1.20
 

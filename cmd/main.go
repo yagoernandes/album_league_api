@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/yagoernandes/album-league/cmd/environment"
+	"github.com/yagoernandes/album_league_api/cmd/environment"
 )
 
 func main() {
